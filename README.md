@@ -5,7 +5,7 @@ https://colab.research.google.com/drive/1VWlI1lVvVxqE2FZRIasNw23SRbMrfiga#scroll
 
 ### For Test
 
-create floder and copy model from train to this floder
+create "model" floder and copy model from train to this floder
 ```
 model
 -mytha.traineddata
